@@ -5,7 +5,7 @@ I am a developer who is passionate about stuff like deep learning and data scien
 - 👨🏽‍💻 Currently working, learning and growing my skillset in deep learning, competitive coding, data structures and algorithms.
 - 🤝 Open for collaborations in deep learning, analytics and data science.
 - 👨 Know more about me at [Sourcerer](https://www.google.com) 
-- 🌐 Visit my [porfolio website](https://shaurya-src.weebly.com//) for complete background and contact.
+- 🌐 Visit my [porfolio website](https://shaurya-src.weebly.com/) for complete background and contact.
 - 👋 My personal [blog site](https://shaurya-src.weebly.com/blog)
 
 ---
