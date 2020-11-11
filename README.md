@@ -54,3 +54,8 @@
   <img src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/selenium.png" height=40 hspace=10>
 </p>
 
+<br>
+
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=shaurya-src&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&line_height=27">
+</p>
