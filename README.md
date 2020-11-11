@@ -34,8 +34,6 @@
   <img src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/sql.png" height=40 hspace=10>
 </p>
 
-<br>
-
 <h3 align="center">
   <code>
     Tools Used
@@ -56,6 +54,13 @@
 
 <br>
 
+<details open>
+ <summary> ✇ <b>My Github Stats</b>: </summary>
+<br>
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=shaurya-src&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&line_height=27">
 </p>
+<p align="center">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=shaurya-src&hide=css,java,html&layout=compact&theme=tokyonight">
+</p>
+</details>
