@@ -47,7 +47,7 @@
 
 <a href="https://www.google.com" target="blank">
   <img align="right"
-    src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/My-work.gif"
+    src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/code.gif"
     alt="GIF" />
 </a>
 
