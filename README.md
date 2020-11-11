@@ -29,9 +29,9 @@
 <br>
 
 <p align="center">
-  <img src="https://github.com/IshaanOhri/IshaanOhri/blob/master/assets/python.png" height=40 hspace=10>
-  <img src="https://github.com/IshaanOhri/IshaanOhri/blob/master/assets/cpp.png" height=40 hspace=10>
-  <img src="https://github.com/IshaanOhri/IshaanOhri/blob/master/assets/sql.png" height=40 hspace=10>
+  <img src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/python.png" height=40 hspace=10>
+  <img src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/cpp.png" height=40 hspace=10>
+  <img src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/sql.png" height=40 hspace=10>
 </p>
 
 <br>
