@@ -43,6 +43,14 @@
   <img src="https://komarev.com/ghpvc/?username=shaurya-src" alt="Shaurya Choudhary" />
 </p>
 
+<br>
+
+<a href="https://github.com/kittinan/spotify-github-profile" target="blank">
+  <img align="right"
+    src="https://spotify-github-profile.vercel.app/api/view?uid=214zuzj6g7ndx46cmed74tymq&cover_image=true&theme=default"
+    alt="spotify" />
+</a>
+
 <h3>
   <code>
     Preferred Languages
