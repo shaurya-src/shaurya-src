@@ -23,10 +23,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shaurya-src" alt="Shaurya Choudhary" />
-</p>
-
 <br>
 
 <p align="center">
@@ -35,7 +31,11 @@
   </code>
 </p>
 
-<h3 align="center">
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shaurya-src" alt="Shaurya Choudhary" />
+</p>
+
+<h3>
   <code>
     Preferred Languages
   </code>
@@ -43,13 +43,13 @@
 
 <br>
 
-<p align="center">
+<p>
   <img src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/python.png" height=40 hspace=10>
   <img src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/cpp.png" height=40 hspace=10>
   <img src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/sql.png" height=40 hspace=10>
 </p>
 
-<h3 align="center">
+<h3>
   <code>
     Tools Used
   </code>
@@ -57,7 +57,7 @@
 
 <br>
 
-<p align="center">
+<p>
   <img src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/git.png" height=40 hspace=10>
   <img src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/Tensorflow.png" height=40 hspace=10>
   <img src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/NumPy.png" height=40 hspace=10>
