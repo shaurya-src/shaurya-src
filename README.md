@@ -45,10 +45,10 @@
 
 <br>
 
-<a href="https://github.com/kittinan/spotify-github-profile" target="blank">
+<a href="https://www.google.com" target="blank">
   <img align="right"
-    src="https://spotify-github-profile.vercel.app/api/view?uid=214zuzj6g7ndx46cmed74tymq&cover_image=true&theme=default"
-    alt="spotify" />
+    src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/My-work.gif"
+    alt="GIF" />
 </a>
 
 <h3>
