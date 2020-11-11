@@ -1,12 +1,18 @@
 <a href="https://twitter.com/FrostTitanX" target="_blank" rel="nofollow"><img align="right" alt="Shaurya's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a><a href="https://www.linkedin.com/in/shaurya-src/" target="_blank" rel="nofollow"><img align="right" alt="Shaurya's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a><a href="https://www.instagram.com/shaurya_src/" target="_blank" rel="nofollow"><img align="right" alt="Shaurya's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
 
-# Hola!
+<h1 align="center">Hola!</h1>
 
 <p align="center">
   <a href="https://github.com/shaurya-src">
     <img src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/Hello%20world.gif" width="450">
   </a>
 </p>
+
+[![Species](https://img.shields.io/badge/Species-Homo_sapiens-success?style=flat-square&logo=mailchimp&logoColor=white)](https://en.wikipedia.org/wiki/Homo_sapiens)
+[![Status](https://img.shields.io/badge/Status-Stable-success?style=flat-square&logo=gravatar&logoColor=white)](https://en.wikipedia.org/wiki/Life)
+[![Science is my jam](https://img.shields.io/badge/My%20jam-science-critical?style=flat-square&logo=electron&logoColor=white)](https://github.com/br3ndonland/R-proteomics-Nrf1)
+
+<br>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shaurya-src" alt="Shaurya Choudhary" />
