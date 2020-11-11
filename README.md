@@ -59,8 +59,6 @@
 <br>
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=shaurya-src&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&line_height=27">
-</p>
-<p align="center">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=shaurya-src&hide=css,java,html&layout=compact&theme=tokyonight">
 </p>
 </details>
