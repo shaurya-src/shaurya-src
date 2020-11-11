@@ -82,7 +82,7 @@
   <img src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/scipy.png" height=40 hspace=10>
   <img src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/selenium.png" height=40 hspace=10>
 </p>
-
+___________________________________________________
 <br>
 
 - Always learning. <br>
