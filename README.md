@@ -85,14 +85,10 @@
 
 <br>
 
-<details open>
- <summary> ✇ <b>My Github Stats</b>: </summary>
-<br>
-  - Always learning. <br>
-  - Open for collaboration in Data Science and Deep Learning. <br>
-  - Visit my porfolio [website](https://shaurya-src.weebly.com/) for more info. <br>
-  - Trying to blog at [Medium](https://shaurya-src.medium.com/).
-</details>
+- Always learning. <br>
+- Open for collaboration in Data Science and Deep Learning. <br>
+- Visit my porfolio [website](https://shaurya-src.weebly.com/) for more info. <br>
+- Trying to blog at [Medium](https://shaurya-src.medium.com/).
 
 <details open>
  <summary> ✇ <b>My Github Stats</b>: </summary>
