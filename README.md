@@ -82,10 +82,10 @@
   <img src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/scipy.png" height=40 hspace=10>
   <img src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/selenium.png" height=40 hspace=10>
 </p>
-___________________________________________________
+____________________________________________________________________________
 <br>
 
-> Always learning. <br>
+- ☯️ Always learning. <br>
 - 🤝 Open for collaboration in Data Science and Deep Learning. <br>
 - 🕸️ Visit my porfolio [website](https://shaurya-src.weebly.com/) for more info. <br>
 - 🌀 Trying to blog at [Medium](https://shaurya-src.medium.com/).
