@@ -88,11 +88,10 @@
 <details open>
  <summary> ✇ <b>My Github Stats</b>: </summary>
 <br>
-  * 👨🏽‍💻 Currently working, learning and growing my skillset in deep learning, competitive coding, data structures and algorithms.
-  - 🤝 Open for collaborations in deep learning, analytics and data science.
-  - 👨 Know more about me at [Sourcerer](https://sourcerer.io/pr2tik1)
-  - 🌐 Visit my [porfolio website](https://pr2tik1.github.io/) for complete background and contact.
-  - 👋 My personal [blog site](https://pr2tik1.github.io/blog/)
+  - Always learning. <br>
+  - Open for collaboration in Data Science and Deep Learning. <br>
+  - Visit my porfolio [website](https://shaurya-src.weebly.com/) for more info. <br>
+  - Trying to blog at [Medium](https://shaurya-src.medium.com/).
 </details>
 
 <details open>
