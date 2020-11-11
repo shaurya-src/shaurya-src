@@ -19,7 +19,7 @@
     <img src="https://img.shields.io/badge/Status-Stable-success?style=flat-square&logo=gravatar&logoColor=white">
   </a>
   <a href="https://en.wikipedia.org/wiki/Computer_science">
-    <img src="https://img.shields.io/badge/My%20jam-science-critical?style=flat-square&logo=electron&logoColor=white">
+    <img src="https://img.shields.io/badge/My%20jam-Computer%20Science-critical?style=flat-square&logo=electron&logoColor=white">
   </a>
 </p>
 
