@@ -27,7 +27,7 @@
   <img src="https://img.shields.io/badge/Windows-10-292e33?style=flat-square&logo=microsoft&logoColor=ffffff">
   <img src="https://img.shields.io/badge/Linux-Kali-292e33?style=flat-square&logo=Arch-Linux&logoColor=ffffff">
   <img src="https://img.shields.io/badge/IDE-PyCharm-292e33?style=flat-square&logo=PyCharm&logoColor=fff">
-  <img src="https://img.shields.io/badge/BROWSER-Edge-292e33?style=flat-square&logo=Edge">
+  <img src="https://img.shields.io/badge/BROWSER-Edge-292e33?style=flat-square&logo=Microsoft-Edge">
   <img src="https://img.shields.io/badge/BROWSER-Tor-292e33?style=flat-square&logo=Tor">
 </p>
 
@@ -84,6 +84,18 @@
 </p>
 
 <br>
+
+<details open>
+ <summary> ✇ <b>My Github Stats</b>: </summary>
+<br>
+<p>
+  - 👨🏽‍💻 Currently working, learning and growing my skillset in deep learning, competitive coding, data structures and algorithms.
+  - 🤝 Open for collaborations in deep learning, analytics and data science.
+  - 👨 Know more about me at [Sourcerer](https://sourcerer.io/pr2tik1)
+  - 🌐 Visit my [porfolio website](https://pr2tik1.github.io/) for complete background and contact.
+  - 👋 My personal [blog site](https://pr2tik1.github.io/blog/)
+</p>
+</details>
 
 <details open>
  <summary> ✇ <b>My Github Stats</b>: </summary>
