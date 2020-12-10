@@ -26,7 +26,7 @@
   <img src="https://img.shields.io/badge/Linux-Kali-292e33?style=flat-square&logo=Arch-Linux&logoColor=ffffff">
   <img src="https://img.shields.io/badge/IDE-PyCharm-292e33?style=flat-square&logo=PyCharm&logoColor=fff">
   <img src="https://img.shields.io/badge/BROWSER-Edge-292e33?style=flat-square&logo=Microsoft-Edge">
-  <img src="https://img.shields.io/badge/BROWSER-Tor-292e33?style=flat-square&logo=Tor">
+  <img src="https://img.shields.io/badge/BROWSER-Tor-292e33?style=flat-square&logo=Tor-Project">
 </p>
 
 <br>
