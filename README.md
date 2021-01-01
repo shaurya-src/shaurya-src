@@ -87,7 +87,7 @@ ________________________________________________________________________________
 
 - ☯️ If you don’t like the hand that fate’s dealt you with, fight for a new one. <br>
 - 🤝 Open for collaboration in Data Science and Deep Learning. <br>
-- 🕸️ Visit my porfolio [website](https://shaurya-src.weebly.com/) for more info. <br>
+- 🕸️ Visit my porfolio [website](https://www.shauryasrc.com/) for more info. <br>
 - 🌀 Trying to blog at [Medium](https://shaurya-src.medium.com/).
 
 <br>
