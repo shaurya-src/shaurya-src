@@ -3,22 +3,22 @@
 <h1 align="center">Hola!</h1>
 
 <p align="center">
-  <a href="https://github.com/shaurya-src">
+  <a href="https://github.com/shaurya-src" target="_blank">
     <img src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/Hello%20world.gif" width="450">
   </a>
 </p>
 
 <p align="center">
-  <a href="https://www.shauryasrc.com">
+  <a href="https://www.shauryasrc.com" target="_blank">
     <img src="https://img.shields.io/badge/WWW.-shauryasrc.com-critical?style=flat-square&logo=saltstack&logoColor=white">
   </a>
-  <a href="https://en.wikipedia.org/wiki/Homo_sapiens">
+  <a href="https://en.wikipedia.org/wiki/Homo_sapiens" target="_blank">
     <img src="https://img.shields.io/badge/Species-Homo_sapiens-success?style=flat-square&logo=mailchimp&logoColor=white">
   </a>
-  <a href="https://en.wikipedia.org/wiki/Life">
+  <a href="https://en.wikipedia.org/wiki/Life" target="_blank">
     <img src="https://img.shields.io/badge/Status-Stable-success?style=flat-square&logo=gravatar&logoColor=white">
   </a>
-  <a href="https://en.wikipedia.org/wiki/Computer_science">
+  <a href="https://en.wikipedia.org/wiki/Computer_science" target="_blank">
     <img src="https://img.shields.io/badge/My%20jam-Computer%20Science-critical?style=flat-square&logo=electron&logoColor=white">
   </a>
 </p>
