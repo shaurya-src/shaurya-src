@@ -102,3 +102,8 @@ ________________________________________________________________________________
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=shaurya-src&hide=TeX,HTML&theme=tokyonight">
 </p>
 </details>
+
+<details>	
+  <summary><b>⚡ Github Streaks:</b></summary>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=shaurya-src&hide_border=true" />
+</details>
