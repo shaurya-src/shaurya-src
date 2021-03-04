@@ -105,5 +105,5 @@ ________________________________________________________________________________
 
 <details>	
   <summary><b>⚡ Github Streaks:</b></summary>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=shaurya-src&hide_border=true" />
+  <img height="280em" src="https://github-readme-streak-stats.herokuapp.com/?user=shaurya-src&hide_border=true" />
 </details>
