@@ -66,28 +66,29 @@
   <code><img height="35" src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/js.png" alt="js"></code>
   <code><img height="35" src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/css.png" alt="css"></code>
   <code><img height="35" src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/html.png" alt="html"></code>
+  <code><img height="35" src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/Tensorflow.png" alt="Tensorflow"></code>
+  <code><img height="35" src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/django.png" alt="Django"></code>
+  <code><img height="35" src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/scipy.png" alt="scipy"></code>
+  <code><img height="35" src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/selenium.png" alt="selenium"></code>
+  <code><img height="35" src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/git.png" alt="git"></code>
+  <code><img height="35" src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/linux.png" alt="linux"></code>
 </p>
 
-<p>
-<code><img height="35" src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/Tensorflow.png" alt="Tensorflow"></code>
-<code><img height="35" src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/django.png" alt="Django"></code>
-<code><img height="35" src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/scipy.png" alt="scipy"></code>
-<code><img height="35" src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/selenium.png" alt="selenium"></code>
-<code><img height="35" src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/git.png" alt="git"></code>
-<code><img height="35" src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/linux.png" alt="linux"></code>
-</p>
-______________________________________________________________________________________
-
 <br>
 <br>
 
-- ☯️ If you don’t like the hand that fate’s dealt you with, fight for a new one. <br>
-- 🤝 Open for collaboration in Data Science and Deep Learning. <br>
-- 🕸️ Visit my porfolio [website](https://www.shauryasrc.com/) for more info. <br>
-- 🌀 Trying to blog at [Medium](https://shaurya-src.medium.com/). <br>
-- 📃 Checkout my resume from [here](https://github.com/shaurya-src/shaurya-src/blob/main/Assets/ShauryaResume.pdf).
+### Talking about Personal Suffs: 
+
+- 🌀 &nbsp; If you don’t like the hand that fate’s dealt you with, fight for a new one. <br>
+- 🛠 &nbsp; Open for collaboration in Data Science and Deep Learning. <br>
+- 💻 &nbsp; Visit my porfolio [website](https://www.shauryasrc.com/) for more info. <br>
+- 💬 &nbsp; Trying to blog at [Medium](https://shaurya-src.medium.com/). <br>
+- 📫 &nbsp; How to reach me: 
+- 📝 &nbsp; Checkout my resume from [here](https://github.com/shaurya-src/shaurya-src/blob/main/Assets/ShauryaResume.pdf).
 
 <br>
+
+### Dev Stats:
 
 <details open>
  <summary> ✇ <b>My Github Stats</b>: </summary>
@@ -101,6 +102,11 @@ ________________________________________________________________________________
 <details>	
   <summary><b>⚡ Github Streaks:</b></summary>
   <img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=shaurya-src&hide_border=true" />
+</details>
+
+<details>	
+  <summary><b>🚀 My Working Setup:</b></summary>
+  ![Github Trophy](https://github-profile-trophy.vercel.app/?username=shaurya-src)
 </details>
 
 #
