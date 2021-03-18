@@ -60,21 +60,21 @@
 <br>
 
 <p>
-  <code><img height="35" hspace=10 src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/python.png" alt="python"></code>
-  <code><img height="35" hspace=10 src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/java.png" alt="java"></code>
-  <code><img height="35" hspace=10 src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/sql.png" alt="sql"></code>
-  <code><img height="35" hspace=10 src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/js.png" alt="js"></code>
-  <code><img height="35" hspace=10 src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/css.png" alt="css"></code>
-  <code><img height="35" hspace=10 src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/html.png" alt="html"></code>
+  <code><img height="35" src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/python.png" alt="python"></code>
+  <code><img height="35" src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/java.png" alt="java"></code>
+  <code><img height="35" src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/sql.png" alt="sql"></code>
+  <code><img height="35" src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/js.png" alt="js"></code>
+  <code><img height="35" src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/css.png" alt="css"></code>
+  <code><img height="35" src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/html.png" alt="html"></code>
 </p>
 
 <p>
-<code><img height="35" hspace=10 src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/Tensorflow.png" alt="Tensorflow"></code>
-<code><img height="35" hspace=10 src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/django.png" alt="Django"></code>
-<code><img height="35" hspace=10 src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/scipy.png" alt="scipy"></code>
-<code><img height="35" hspace=10 src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/selenium.png" alt="selenium"></code>
-<code><img height="35" hspace=10 src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/git.png" alt="git"></code>
-<code><img height="35" hspace=10 src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/linux.png" alt="linux"></code>
+<code><img height="35" src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/Tensorflow.png" alt="Tensorflow"></code>
+<code><img height="35" src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/django.png" alt="Django"></code>
+<code><img height="35" src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/scipy.png" alt="scipy"></code>
+<code><img height="35" src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/selenium.png" alt="selenium"></code>
+<code><img height="35" src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/git.png" alt="git"></code>
+<code><img height="35" src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/linux.png" alt="linux"></code>
 </p>
 ______________________________________________________________________________________
 
