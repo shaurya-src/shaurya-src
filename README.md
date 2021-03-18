@@ -35,7 +35,7 @@
 
 <p align="center">
   <code>
-  I'm Shaurya Choudhary, an adept learner exploring the depths of technology. I am a 3rd year undergrad at VIT, Vellore, majoring in Computer Science and Engineering (CSE). I have a great knowledge grasp of <strong> Data Structures & Algorithms </strong>, and I'm particularly dedicated in the domain of <strong> Data Science </strong> and <strong> Web Development </strong>.
+  I'm Shaurya Choudhary, an adept learner 💡 exploring the depths of technology. I am a 3rd year undergrad 🎓 at VIT, Vellore 🏛, majoring in Computer Science and Engineering (CSE). I have a great knowledge grasp of <strong> Data Structures & Algorithms </strong> ✨, and I'm particularly dedicated in the domain of <strong> Data Science </strong> and <strong> Web Development </strong> 👨🏻‍💻.
   </code>
 </p>
 
@@ -53,46 +53,42 @@
 
 <h3>
   <code>
-    Preferred Languages
+    Languages and Tools
   </code>
 </h3>
 
 <br>
 
 <p>
-  <img src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/python.png" height=40 hspace=10>
-  <img src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/cpp.png" height=40 hspace=10>
-  <img src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/sql.png" height=40 hspace=10>
+  <code><img height="35" src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/python.png" alt="python"></code>
+  <code><img height="35" src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/java.png" alt="java"></code>
+  <code><img height="35" src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/sql.png" alt="sql"></code>
+  <code><img height="35" src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/js.png" alt="js"></code>
+  <code><img height="35" src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/css.png" alt="css"></code>
+  <code><img height="35" src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/html.png" alt="html"></code>
+  <code><img height="35" src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/Tensorflow.png" alt="Tensorflow"></code>
+  <code><img height="35" src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/django.png" alt="Django"></code>
+  <code><img height="35" src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/scipy.png" alt="scipy"></code>
+  <code><img height="35" src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/selenium.png" alt="selenium"></code>
+  <code><img height="35" src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/git.png" alt="git"></code>
+  <code><img height="35" src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/linux.png" alt="linux"></code>
 </p>
 
-<h3>
-  <code>
-    Tools Used
-  </code>
-</h3>
-
-<br>
-
-<p>
-  <img src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/git.png" height=40 hspace=10>
-  <img src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/Tensorflow.png" height=40 hspace=10>
-  <img src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/NumPy.png" height=40 hspace=10>
-  <img src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/pandas_logo.png" height=40 hspace=10>
-  <img src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/Matplotlib.png" height=40 hspace=10>
-  <img src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/scipy.png" height=40 hspace=10>
-  <img src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/selenium.png" height=40 hspace=10>
-</p>
-______________________________________________________________________________________
-
 <br>
 <br>
 
-- ☯️ If you don’t like the hand that fate’s dealt you with, fight for a new one. <br>
-- 🤝 Open for collaboration in Data Science and Deep Learning. <br>
-- 🕸️ Visit my porfolio [website](https://www.shauryasrc.com/) for more info. <br>
-- 🌀 Trying to blog at [Medium](https://shaurya-src.medium.com/).
+### Talking about Personal Suffs: 
+
+- 🌀 &nbsp; If you don’t like the hand that fate’s dealt you with, fight for a new one. <br>
+- 🛠 &nbsp; Open for collaboration in Data Science and Deep Learning. <br>
+- 💻 &nbsp; Visit my porfolio [website](https://www.shauryasrc.com/) for more info. <br>
+- 💬 &nbsp; Trying to blog at [Medium](https://shaurya-src.medium.com/). <br>
+- 📫 &nbsp; How to reach me: 
+- 📝 &nbsp; Checkout my resume from [here](https://github.com/shaurya-src/shaurya-src/blob/main/Assets/ShauryaResume.pdf).
 
 <br>
+
+### Dev Stats:
 
 <details open>
  <summary> ✇ <b>My Github Stats</b>: </summary>
@@ -107,3 +103,16 @@ ________________________________________________________________________________
   <summary><b>⚡ Github Streaks:</b></summary>
   <img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=shaurya-src&hide_border=true" />
 </details>
+
+<details>	
+  <summary><b>🚀 Github Awards:</b></summary>
+  <img src = "https://github-profile-trophy.vercel.app/?username=shaurya-src">
+</details>
+
+#
+
+<div align="center">
+
+### Show some ❤️ by starring some of the repositories!
+
+</div>
