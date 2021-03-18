@@ -35,7 +35,7 @@
 
 <p align="center">
   <code>
-  I'm Shaurya Choudhary, an adept learner exploring the depths of technology. I am a 3rd year undergrad at VIT, Vellore, majoring in Computer Science and Engineering (CSE). I have a great knowledge grasp of <strong> Data Structures & Algorithms </strong>, and I'm particularly dedicated in the domain of <strong> Data Science </strong> and <strong> Web Development </strong>.
+  I'm Shaurya Choudhary, an adept learner 💡 exploring the depths of technology. I am a 3rd year undergrad 🎓 at VIT, Vellore 🏛, majoring in Computer Science and Engineering (CSE). I have a great knowledge grasp of <strong> Data Structures & Algorithms </strong> ✨, and I'm particularly dedicated in the domain of <strong> Data Science </strong> and <strong> Web Development </strong> 👨🏻‍💻.
   </code>
 </p>
 
@@ -61,11 +61,26 @@
 
 <p>
   <code><img height="27" src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/python.png" alt="python"></code>
+  <code><img height="27" src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/java.png" alt="java"></code>
+  <code><img height="27" src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/sql.png" alt="sql"></code>
+  <code><img height="27" src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/js.png" alt="js"></code>
+  <code><img height="27" src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/css.png" alt="css"></code>
+  <code><img height="27" src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/hmtl.png" alt="html"></code>
 </p>
 
 <br>
 
 <p>
+<code><img height="27" src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/Tensorflow.png" alt="Tensorflow"></code>
+<code><img height="27" src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/django.png" alt="Django"></code>
+<code><img height="27" src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/scipy.png" alt="scipy"></code>
+<code><img height="27" src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/selenium.png" alt="selenium"></code>
+<code><img height="27" src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/git.png" alt="git"></code>
+<code><img height="27" src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/linux.png" alt="linux"></code>
+
+
+
+
   <img src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/git.png" height=40 hspace=10>
   <img src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/Tensorflow.png" height=40 hspace=10>
   <img src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/NumPy.png" height=40 hspace=10>
@@ -82,7 +97,8 @@ ________________________________________________________________________________
 - ☯️ If you don’t like the hand that fate’s dealt you with, fight for a new one. <br>
 - 🤝 Open for collaboration in Data Science and Deep Learning. <br>
 - 🕸️ Visit my porfolio [website](https://www.shauryasrc.com/) for more info. <br>
-- 🌀 Trying to blog at [Medium](https://shaurya-src.medium.com/).
+- 🌀 Trying to blog at [Medium](https://shaurya-src.medium.com/). <br>
+- 📃 Checkout my resume from [here](https://github.com/shaurya-src/shaurya-src/blob/main/Assets/ShauryaResume.pdf).
 
 <br>
 
