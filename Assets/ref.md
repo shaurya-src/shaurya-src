@@ -65,10 +65,8 @@
   <code><img height="27" src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/sql.png" alt="sql"></code>
   <code><img height="27" src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/js.png" alt="js"></code>
   <code><img height="27" src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/css.png" alt="css"></code>
-  <code><img height="27" src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/hmtl.png" alt="html"></code>
+  <code><img height="27" src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/html.png" alt="html"></code>
 </p>
-
-<br>
 
 <p>
 <code><img height="27" src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/Tensorflow.png" alt="Tensorflow"></code>
@@ -77,17 +75,6 @@
 <code><img height="27" src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/selenium.png" alt="selenium"></code>
 <code><img height="27" src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/git.png" alt="git"></code>
 <code><img height="27" src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/linux.png" alt="linux"></code>
-
-
-
-
-  <img src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/git.png" height=40 hspace=10>
-  <img src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/Tensorflow.png" height=40 hspace=10>
-  <img src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/NumPy.png" height=40 hspace=10>
-  <img src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/pandas_logo.png" height=40 hspace=10>
-  <img src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/Matplotlib.png" height=40 hspace=10>
-  <img src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/scipy.png" height=40 hspace=10>
-  <img src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/selenium.png" height=40 hspace=10>
 </p>
 ______________________________________________________________________________________
 
