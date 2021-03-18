@@ -105,8 +105,8 @@
 </details>
 
 <details>	
-  <summary><b>🚀 My Working Setup:</b></summary>
-  ![Github Trophy](https://github-profile-trophy.vercel.app/?username=shaurya-src)
+  <summary><b>🚀 Github Awards:</b></summary>
+  <img src = "https://github-profile-trophy.vercel.app/?username=shaurya-src">
 </details>
 
 #
