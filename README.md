@@ -40,7 +40,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shaurya-src" alt="Shaurya Choudhary" />
+  <img src="https://komarev.com/ghpvc/?username=shaurya-src&style=flat-square" alt="Shaurya Choudhary" />
 </p>
 
 <br>
