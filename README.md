@@ -79,7 +79,7 @@
 
 ### Talking about Personal Suffs: 
 
-- 🌀 &nbsp; How do you wake up from the matrix, when you don't know you're in the matrix?<br>
+- 🌀 &nbsp; How do you wake up from the matrix, <br> when you don't know you're in the matrix?<br>
 - 🛠 &nbsp; Open for collaboration in Data Science and Deep Learning. <br>
 - 💻 &nbsp; Visit my porfolio [website](https://www.shauryasrc.com/) for more info. <br>
 - 💬 &nbsp; Trying to blog at [Medium](https://shaurya-src.medium.com/). <br>
