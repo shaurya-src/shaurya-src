@@ -83,7 +83,7 @@
 - 🛠 &nbsp; Open for collaboration in Data Science and Deep Learning. <br>
 - 💻 &nbsp; Visit my porfolio [website](https://www.shauryasrc.com/) for more info. <br>
 - 💬 &nbsp; Trying to blog at [Medium](https://shaurya-src.medium.com/). <br>
-- 📫 &nbsp; How to reach me: 
+- 📫 &nbsp; How to reach me: [shaurya.src@gmail.com](mailto:shaurya.src@gmail.com) <br>
 - 📝 &nbsp; Checkout my resume from [here](https://github.com/shaurya-src/shaurya-src/blob/main/Assets/ShauryaResume.pdf).
 
 <br>
