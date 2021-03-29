@@ -79,11 +79,11 @@
 
 ### Talking about Personal Suffs: 
 
-- 🌀 &nbsp; If you don’t like the hand that fate’s dealt you with, fight for a new one. <br>
+- 🌀 &nbsp; How do you wake up from the matrix, when you don't know you're in the matrix?<br>
 - 🛠 &nbsp; Open for collaboration in Data Science and Deep Learning. <br>
 - 💻 &nbsp; Visit my porfolio [website](https://www.shauryasrc.com/) for more info. <br>
 - 💬 &nbsp; Trying to blog at [Medium](https://shaurya-src.medium.com/). <br>
-- 📫 &nbsp; How to reach me: [shaurya.src@gmail.com](mailto:shaurya.src@gmail.com) <br>
+- 📫 &nbsp; How to reach me: [e-mail](mailto:shaurya.src@gmail.com) <br>
 - 📝 &nbsp; Checkout my resume from [here](https://github.com/shaurya-src/shaurya-src/blob/main/Assets/ShauryaResume.pdf).
 
 <br>
