@@ -5,7 +5,8 @@
 <p align="center">
   <a href="https://github.com/shaurya-src" target="_blank">
     <!-- <img src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/Hello%20world.gif" width="450"> -->
-    <img src="https://svg-banners.vercel.app/api?type=glitch&text1=print(%22Hello%20world!%20Shaurya%20here.%22)&width=2000&height=100" width="450">
+    <!-- <img src="https://svg-banners.vercel.app/api?type=glitch&text1=print(%22Hello%20world!%20Shaurya%20here.%22)&width=2000&height=100" width="450"> -->
+    <img src="https://svg-banners.vercel.app/api?type=typeWriter&text1=print(%22Hello%20world!%20Shaurya%20here.%22)%20%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB&width=1000&height=100" width="600">
   </a>
 </p>
 
