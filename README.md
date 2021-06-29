@@ -1,6 +1,6 @@
 <a href="https://twitter.com/shaurya_src" target="_blank" rel="nofollow"><img align="right" alt="Shaurya's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a><a href="https://www.linkedin.com/in/shaurya-src/" target="_blank" rel="nofollow"><img align="right" alt="Shaurya's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a><a href="https://www.instagram.com/shaurya_src/" target="_blank" rel="nofollow"><img align="right" alt="Shaurya's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
 
-<h1 align="center">Hola!</h1>
+<h1 align="center">Hola! 👋</h1>
 
 <p align="center">
   <a href="https://github.com/shaurya-src" target="_blank">
