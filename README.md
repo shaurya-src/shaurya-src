@@ -37,7 +37,7 @@
 
 <p align="center">
   <code>
-  I'm Shaurya Choudhary, an adept learner 💡 exploring the depths of technology. I am a 3rd year undergrad 🎓 at VIT, Vellore 🏛, majoring in Computer Science and Engineering (CSE). I have a great knowledge grasp of <strong> Data Structures & Algorithms </strong> ✨, and I'm particularly dedicated in the domain of <strong> Data Science </strong> and <strong> Web Development </strong> 👨🏻‍💻.
+  I'm Shaurya Choudhary, an adept learner 💡 exploring the depths of technology. I am a final year undergrad 🎓 at VIT, Vellore 🏛, majoring in Computer Science and Engineering (CSE). I have a great knowledge grasp of <strong> Data Structures & Algorithms </strong> ✨, and I'm particularly dedicated in the domain of <strong> Data Science </strong> and <strong> Web Development </strong> 👨🏻‍💻.
   </code>
 </p>
 
