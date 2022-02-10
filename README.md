@@ -79,7 +79,7 @@
 <br>
 <br>
 
-### Talking about Personal Suffs: 
+### Talking about Personal Stuffs: 
 
 - 🌀 &nbsp; How do you wake up from the matrix, <br> 
      &nbsp; &nbsp; &nbsp; &nbsp; when you don't know you're in the matrix?<br>
