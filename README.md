@@ -111,11 +111,3 @@
   <summary><b>🚀 Github Awards:</b></summary>
   <img src = "https://github-profile-trophy.vercel.app/?username=shaurya-src">
 </details>
-
-#
-
-<div align="center">
-
-### Show some ❤️ by starring some of the repositories!
-
-</div>
