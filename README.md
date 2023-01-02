@@ -2,13 +2,11 @@
 
 <p align="center">
   <a href="https://github.com/shaurya-src" target="_blank">
-    <!-- <img src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/Hello%20world.gif" width="450"> -->
-    <!-- <img src="https://svg-banners.vercel.app/api?type=glitch&text1=print(%22Hello%20world!%20Shaurya%20here.%22)&width=2000&height=100" width="450"> -->
     <img src="https://svg-banners.vercel.app/api?type=typeWriter&text1=print(%22Hello%20world!%20Shaurya%20here.%22)%20%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB&width=700&height=100" width="700">
   </a>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://www.shauryasrc.com" target="_blank">
     <img src="https://img.shields.io/badge/WWW.-shauryasrc.com-critical?style=flat-square&logo=saltstack&logoColor=white">
   </a>
@@ -29,15 +27,9 @@
   <img src="https://img.shields.io/badge/Android-Studio-292e33?style=flat-square&logo=android-studio&logoColor=fff">
   <img src="https://img.shields.io/badge/Browser-Chrome-292e33?style=flat-square&logo=google-chrome&logoColor=fff">
   <img src="https://img.shields.io/badge/Browser-Brave-292e33?style=flat-square&logo=brave&logoColor=fff">
-</p>
+</p> -->
 
 <br>
-
-<p align="center">
-  <code>
-  I'm Shaurya Choudhary, an adept learner 💡 exploring the depths of technology. I am a 3rd year undergrad 🎓 at VIT, Vellore 🏛, majoring in Computer Science and Engineering (CSE). I have a great knowledge grasp of <strong> Data Structures & Algorithms </strong> ✨, and I'm particularly dedicated in the domain of <strong> Data Science </strong> and <strong> Web Development </strong> 👨🏻‍💻.
-  </code>
-</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shaurya-src&style=for-the-badge" alt="Shaurya Choudhary" />
@@ -45,11 +37,7 @@
 
 <br>
 
-<h3>
-  <code>
-    Languages and Tools
-  </code>
-</h3>
+### Languages and Tools
 
 <br>
 
@@ -74,7 +62,7 @@
 <br>
 <br>
 
-### Talking about Personal Suffs: 
+### About Me
 
 - 🌀 &nbsp; How do you wake up from the matrix, <br> 
      &nbsp; &nbsp; &nbsp; &nbsp; when you don't know you're in the matrix?<br>
@@ -86,13 +74,18 @@
 
 <br>
 
-<div align="center">
-  <a href="https://spotify-github-profile.vercel.app/api/view?uid=214zuzj6g7ndx46cmed74tymq&redirect=true" > 
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=214zuzj6g7ndx46cmed74tymq&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&bar_color_cover=true&bar_color=53b14f"/> 
-  </a>
-</div>
+#
 
-### Dev Stats:
+### Now Playing 🎧 
+<br>
+
+<a href="https://spotify-github-profile.vercel.app/api/view?uid=214zuzj6g7ndx46cmed74tymq&redirect=true" > 
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=214zuzj6g7ndx46cmed74tymq&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&bar_color_cover=true&bar_color=53b14f"/> 
+</a>
+
+#
+
+### Dev Stats
 
 <details open>
  <summary> ✇ <b>My Github Stats</b> </summary>
