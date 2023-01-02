@@ -1,5 +1,3 @@
-<a href="https://twitter.com/shaurya_src" target="_blank" rel="nofollow"><img align="right" alt="Shaurya's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a><a href="https://www.linkedin.com/in/shaurya-src/" target="_blank" rel="nofollow"><img align="right" alt="Shaurya's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a><a href="https://www.instagram.com/shaurya_src/" target="_blank" rel="nofollow"><img align="right" alt="Shaurya's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
-
 <h1 align="center">Hola! 👋</h1>
 
 <p align="center">
@@ -26,11 +24,11 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Windows-10-292e33?style=flat-square&logo=microsoft&logoColor=ffffff">
-  <img src="https://img.shields.io/badge/Linux-Kali-292e33?style=flat-square&logo=Arch-Linux&logoColor=ffffff">
-  <img src="https://img.shields.io/badge/IDE-PyCharm-292e33?style=flat-square&logo=PyCharm&logoColor=fff">
-  <img src="https://img.shields.io/badge/BROWSER-Edge-292e33?style=flat-square&logo=Microsoft-Edge">
-  <img src="https://img.shields.io/badge/BROWSER-Tor-292e33?style=flat-square&logo=Tor-Project">
+  <img src="https://img.shields.io/badge/macOS-Ventura-292e33?style=flat-square&logo=apple&logoColor=ffffff">
+  <img src="https://img.shields.io/badge/Windows-11-292e33?style=flat-square&logo=windows&logoColor=ffffff">
+  <img src="https://img.shields.io/badge/Android-Studio-292e33?style=flat-square&logo=android-studio&logoColor=fff">
+  <img src="https://img.shields.io/badge/Browser-Chrome-292e33?style=flat-square&logo=google-chrome&logoColor=fff">
+  <img src="https://img.shields.io/badge/Browser-Brave-292e33?style=flat-square&logo=brave&logoColor=fff">
 </p>
 
 <br>
@@ -42,16 +40,10 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shaurya-src&style=flat-square" alt="Shaurya Choudhary" />
+  <img src="https://komarev.com/ghpvc/?username=shaurya-src&style=for-the-badge" alt="Shaurya Choudhary" />
 </p>
 
 <br>
-
-<a href="https://github.com/kittinan/spotify-github-profile" target="blank">
-  <img align="right"
-    src="https://spotify-github-profile.vercel.app/api/view?uid=214zuzj6g7ndx46cmed74tymq&cover_image=true&theme=default"
-    alt="spotify" />
-</a>
 
 <h3>
   <code>
@@ -61,20 +53,23 @@
 
 <br>
 
-<p>
-  <code><img height="35" src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/python.png" alt="python"></code>
-  <code><img height="35" src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/java.png" alt="java"></code>
-  <code><img height="35" src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/sql.png" alt="sql"></code>
-  <code><img height="35" src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/js.png" alt="js"></code>
-  <code><img height="35" src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/css.png" alt="css"></code>
-  <code><img height="35" src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/html.png" alt="html"></code>
-  <code><img height="35" src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/Tensorflow.png" alt="Tensorflow"></code>
-  <code><img height="35" src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/django.png" alt="Django"></code>
-  <code><img height="35" src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/scipy.png" alt="scipy"></code>
-  <code><img height="35" src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/selenium.png" alt="selenium"></code>
-  <code><img height="35" src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/git.png" alt="git"></code>
-  <code><img height="35" src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/linux.png" alt="linux"></code>
-</p>
+<div>
+  <img src="https://img.shields.io/badge/-Flutter-292e33?style=for-the-badge&logo=flutter"/> 
+  <img src="https://img.shields.io/badge/-TensorFlow-292e33?style=for-the-badge&logo=tensorflow"/> 
+  <img src="https://img.shields.io/badge/-pytorch-292e33?style=for-the-badge&logo=pytorch"/> 
+  <img src="https://img.shields.io/badge/-django-292e33?style=for-the-badge&logo=django"/> 
+  <img src="https://img.shields.io/badge/-flask-292e33?style=for-the-badge&logo=flask"/> 
+    <img src="https://img.shields.io/badge/-selenium-292e33?style=for-the-badge&logo=selenium"/> 
+  <img src="https://img.shields.io/badge/-Python-292e33?style=for-the-badge&logo=python"/> 
+  <img src="https://img.shields.io/badge/-Java-292e33?style=for-the-badge&logo=oracle"/> 
+  <img src="https://img.shields.io/badge/-Dart-292e33?style=for-the-badge&logo=dart"/> 
+  <img src="https://img.shields.io/badge/-JavaScript-292e33?style=for-the-badge&logo=javascript"/> 
+  <img src="https://img.shields.io/badge/-HTML-292e33?style=for-the-badge&logo=html5"/> 
+  <img src="https://img.shields.io/badge/-CSS-292e33?style=for-the-badge&logo=css3"/>
+  <img src="https://img.shields.io/badge/-mysql-292e33?style=for-the-badge&logo=mysql"/>
+  <img src="https://img.shields.io/badge/-git-292e33?style=for-the-badge&logo=git"/>
+  <img src="https://img.shields.io/badge/-linux-292e33?style=for-the-badge&logo=linux"/> 
+</div>
 
 <br>
 <br>
@@ -91,10 +86,16 @@
 
 <br>
 
+<div align="center">
+  <a href="https://spotify-github-profile.vercel.app/api/view?uid=214zuzj6g7ndx46cmed74tymq&redirect=true" > 
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=214zuzj6g7ndx46cmed74tymq&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&bar_color_cover=true&bar_color=53b14f"/> 
+  </a>
+</div>
+
 ### Dev Stats:
 
 <details open>
- <summary> ✇ <b>My Github Stats</b>: </summary>
+ <summary> ✇ <b>My Github Stats</b> </summary>
 <br>
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=shaurya-src&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&line_height=27">
@@ -102,20 +103,28 @@
 </p>
 </details>
 
-<details>	
-  <summary><b>⚡ Github Streaks:</b></summary>
+<details>
+  <summary><b>⚡ Github Streaks</b></summary>
   <img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=shaurya-src&hide_border=true" />
-</details>
+</details> <br>
 
-<details>	
-  <summary><b>🚀 Github Awards:</b></summary>
+<details>
+  <summary><b>🚀 Github Awards</b></summary>
   <img src = "https://github-profile-trophy.vercel.app/?username=shaurya-src">
-</details>
+</details> <br>
 
 #
 
 <div align="center">
 
-### Show some ❤️ by starring some of the repositories!
+  <a>
+    <img src="https://img.shields.io/badge/-Email-292e33?style=for-the-badge&logo=gmail"/> 
+  </a> &nbsp;
+  <a>
+    <img src="https://img.shields.io/badge/-Linkedin-292e33?style=for-the-badge&logo=linkedin"/> 
+  </a> &nbsp;
+  <a>
+    <img src="https://img.shields.io/badge/-Instagram-292e33?style=for-the-badge&logo=instagram"/>
+  </a>
 
 </div>
