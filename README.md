@@ -37,7 +37,7 @@
 
 <br>
 
-### Languages and Tools
+### Languages and Tools 🛠️
 
 <br>
 
@@ -62,16 +62,27 @@
 <br>
 <br>
 
-### About Me
+<div align="left">
 
-- 🌀 &nbsp; How do you wake up from the matrix, <br> 
-     &nbsp; &nbsp; &nbsp; &nbsp; when you don't know you're in the matrix?<br>
-- 🛠 &nbsp; Open for collaboration in Data Science and Deep Learning. <br>
-- 💻 &nbsp; Visit my porfolio [website](https://www.shauryasrc.com/) for more info. <br>
-- 💬 &nbsp; Trying to blog at [Medium](https://shaurya-src.medium.com/). <br>
-- 📫 &nbsp; How to reach me: [e-mail](mailto:shaurya.src@gmail.com) <br>
-- 📝 &nbsp; Checkout my resume from [here](https://github.com/shaurya-src/shaurya-src/blob/main/Assets/ShauryaResume.pdf).
+  <h3> About Me 🧙🏻‍♂️ </h3>
 
+  - 🔭 &nbsp; I'm working as a Software Engineer at [Nuclei](https://gonuclei.com/)
+
+  - 🌱 &nbsp; I'm currently learning more about Flutter & Firebase
+
+  - 💻 &nbsp; Visit my porfolio [website](https://www.shauryasrc.com/) for more info
+
+  - 💬 &nbsp; Trying to blog at [Medium](https://shaurya-src.medium.com/)
+
+  - 📫 &nbsp; Best way to reach me is through [e-mail](mailto:shaurya.src@gmail.com)
+
+  - 📝 &nbsp; Checkout my resume from [here](https://github.com/shaurya-src/shaurya-src/blob/main/Assets/ShauryaResume.pdf)
+
+</div>
+
+<div align="right">
+  <img src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/profile_gif.gif"/>
+</div>
 <br>
 
 #
@@ -85,7 +96,7 @@
 
 #
 
-### Dev Stats
+### Dev Stats 💻
 <br>
 <details open>
  <summary> ✇ <b>My Github Stats</b> </summary>
