@@ -42,21 +42,21 @@
 <br>
 
 <div>
-  <img src="https://img.shields.io/badge/-Flutter-292e33?style=for-the-badge&logo=flutter"/> 
-  <img src="https://img.shields.io/badge/-TensorFlow-292e33?style=for-the-badge&logo=tensorflow"/> 
-  <img src="https://img.shields.io/badge/-pytorch-292e33?style=for-the-badge&logo=pytorch"/> 
-  <img src="https://img.shields.io/badge/-django-292e33?style=for-the-badge&logo=django"/> 
-  <img src="https://img.shields.io/badge/-flask-292e33?style=for-the-badge&logo=flask"/> 
-    <img src="https://img.shields.io/badge/-selenium-292e33?style=for-the-badge&logo=selenium"/> 
-  <img src="https://img.shields.io/badge/-Python-292e33?style=for-the-badge&logo=python"/> 
-  <img src="https://img.shields.io/badge/-Java-292e33?style=for-the-badge&logo=oracle"/> 
-  <img src="https://img.shields.io/badge/-Dart-292e33?style=for-the-badge&logo=dart"/> 
+  <img src="https://img.shields.io/badge/-Flutter-292e33?style=for-the-badge&logo=flutter&color=blue"/> 
+  <img src="https://img.shields.io/badge/-TensorFlow-292e33?style=for-the-badge&logo=tensorflow&color=white"/> 
+  <img src="https://img.shields.io/badge/-pytorch-292e33?style=for-the-badge&logo=pytorch&color=purple"/> 
+  <img src="https://img.shields.io/badge/-django-292e33?style=for-the-badge&logo=django&color=darkgreen"/> 
+  <img src="https://img.shields.io/badge/-flask-292e33?style=for-the-badge&logo=flask&color=darkblue"/> 
+    <img src="https://img.shields.io/badge/-selenium-292e33?style=for-the-badge&logo=selenium&color=silver"/> 
+  <img src="https://img.shields.io/badge/-Python-292e33?style=for-the-badge&logo=python&color=lightblue"/> 
+  <img src="https://img.shields.io/badge/-Java-292e33?style=for-the-badge&logo=oracle&color=black"/> 
+  <img src="https://img.shields.io/badge/-Dart-292e33?style=for-the-badge&logo=dart&color=navy"/> 
   <img src="https://img.shields.io/badge/-JavaScript-292e33?style=for-the-badge&logo=javascript"/> 
-  <img src="https://img.shields.io/badge/-HTML-292e33?style=for-the-badge&logo=html5"/> 
-  <img src="https://img.shields.io/badge/-CSS-292e33?style=for-the-badge&logo=css3"/>
-  <img src="https://img.shields.io/badge/-mysql-292e33?style=for-the-badge&logo=mysql"/>
-  <img src="https://img.shields.io/badge/-git-292e33?style=for-the-badge&logo=git"/>
-  <img src="https://img.shields.io/badge/-linux-292e33?style=for-the-badge&logo=linux"/> 
+  <img src="https://img.shields.io/badge/-HTML-292e33?style=for-the-badge&logo=html5&color=yellow"/> 
+  <img src="https://img.shields.io/badge/-CSS-292e33?style=for-the-badge&logo=css3&color=orange"/>
+  <img src="https://img.shields.io/badge/-mysql-292e33?style=for-the-badge&logo=mysql&color=cyan"/>
+  <img src="https://img.shields.io/badge/-git-292e33?style=for-the-badge&logo=git&color=white"/>
+  <img src="https://img.shields.io/badge/-linux-292e33?style=for-the-badge&logo=linux&color=black"/> 
 </div>
 
 <br>
@@ -86,7 +86,7 @@
 #
 
 ### Dev Stats
-
+<br>
 <details open>
  <summary> ✇ <b>My Github Stats</b> </summary>
 <br>
@@ -94,7 +94,7 @@
   <img src = "https://github-readme-stats.vercel.app/api?username=shaurya-src&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&line_height=27">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=shaurya-src&hide=TeX,HTML,Makefile,C&theme=tokyonight&langs_count=3">
 </p>
-</details>
+</details> <br>
 
 <details>
   <summary><b>⚡ Github Streaks</b></summary>
