@@ -62,9 +62,11 @@
 <br>
 <br>
 
-<div align="left">
+<div align="center" >
+  <img style="float: right;" src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/profile_gif.gif" width="320" height="240"/>
+</div>
 
-  <h3> About Me 🧙🏻‍♂️ </h3>
+### About Me 🧙🏻‍♂️ 
 
   - 🔭 &nbsp; I'm working as a Software Engineer at [Nuclei](https://gonuclei.com/)
 
@@ -78,11 +80,6 @@
 
   - 📝 &nbsp; Checkout my resume from [here](https://github.com/shaurya-src/shaurya-src/blob/main/Assets/ShauryaResume.pdf)
 
-</div>
-
-<div align="right">
-  <img src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/profile_gif.gif"/>
-</div>
 <br>
 
 #
