@@ -62,9 +62,9 @@
 <br>
 <br>
 
-<div align="center" >
-  <img style="float: right;" src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/profile_gif.gif" width="320" height="240"/>
-</div>
+
+<img style="float: right;" src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/profile_gif.gif" width="320" height="240"/>
+
 
 ### About Me 🧙🏻‍♂️ 
 
