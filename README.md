@@ -46,15 +46,15 @@
   <img src="https://img.shields.io/badge/-TensorFlow-292e33?style=for-the-badge&logo=tensorflow&color=white"/> 
   <img src="https://img.shields.io/badge/-pytorch-292e33?style=for-the-badge&logo=pytorch&color=purple"/> 
   <img src="https://img.shields.io/badge/-django-292e33?style=for-the-badge&logo=django&color=darkgreen"/> 
-  <img src="https://img.shields.io/badge/-flask-292e33?style=for-the-badge&logo=flask&color=darkblue"/> 
-    <img src="https://img.shields.io/badge/-selenium-292e33?style=for-the-badge&logo=selenium&color=silver"/> 
-  <img src="https://img.shields.io/badge/-Python-292e33?style=for-the-badge&logo=python&color=lightblue"/> 
+  <img src="https://img.shields.io/badge/-flask-292e33?style=for-the-badge&logo=flask&color=darkcyan"/> 
+    <img src="https://img.shields.io/badge/-selenium-292e33?style=for-the-badge&logo=selenium&color=grey"/> 
+  <img src="https://img.shields.io/badge/-Python-292e33?style=for-the-badge&logo=python&color=darkblue"/> 
   <img src="https://img.shields.io/badge/-Java-292e33?style=for-the-badge&logo=oracle&color=black"/> 
   <img src="https://img.shields.io/badge/-Dart-292e33?style=for-the-badge&logo=dart&color=navy"/> 
   <img src="https://img.shields.io/badge/-JavaScript-292e33?style=for-the-badge&logo=javascript"/> 
   <img src="https://img.shields.io/badge/-HTML-292e33?style=for-the-badge&logo=html5&color=yellow"/> 
   <img src="https://img.shields.io/badge/-CSS-292e33?style=for-the-badge&logo=css3&color=orange"/>
-  <img src="https://img.shields.io/badge/-mysql-292e33?style=for-the-badge&logo=mysql&color=cyan"/>
+  <img src="https://img.shields.io/badge/-mysql-292e33?style=for-the-badge&logo=mysql&color=lightblue"/>
   <img src="https://img.shields.io/badge/-git-292e33?style=for-the-badge&logo=git&color=white"/>
   <img src="https://img.shields.io/badge/-linux-292e33?style=for-the-badge&logo=linux&color=black"/> 
 </div>
