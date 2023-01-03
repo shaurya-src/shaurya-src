@@ -1,10 +1,10 @@
-<h1 align="center">Hola! 👋</h1>
+<h1 align="center">Hola, Shaurya here! 👋</h1>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/shaurya-src" target="_blank">
     <img src="https://svg-banners.vercel.app/api?type=typeWriter&text1=print(%22Hello%20world!%20Shaurya%20here.%22)%20%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB&width=700&height=100" width="700">
   </a>
-</p>
+</p> -->
 
 <!-- <p align="center">
   <a href="https://www.shauryasrc.com" target="_blank">
@@ -31,11 +31,24 @@
 
 <br>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shaurya-src&style=for-the-badge" alt="Shaurya Choudhary" />
-</p>
+<div>
+  
+<img align="right" src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/profile_gif.gif" width="320" height="240"/>
+  
+  ### About Me 🧙🏻‍♂️ 
 
-<br>
+  <br>
+  
+  - 🔭 &nbsp; I'm working as a Software Engineer at [Nuclei](https://gonuclei.com/)
+  - 🌱 &nbsp; I'm currently learning more about Flutter & Firebase
+  - 💻 &nbsp; Visit my porfolio [website](https://www.shauryasrc.com/) for more info
+  - 💬 &nbsp; Trying to blog at [Medium](https://shaurya-src.medium.com/)
+  - 📫 &nbsp; Best way to reach me is through [e-mail](mailto:shaurya.src@gmail.com)
+  - 📝 &nbsp; Checkout my resume from [here](https://github.com/shaurya-src/shaurya-src/blob/main/Assets/ShauryaResume.pdf)
+  
+</div>
+
+<br> <br>
 
 ### Languages and Tools 🛠️
 
@@ -59,28 +72,11 @@
   <img src="https://img.shields.io/badge/-linux-292e33?style=for-the-badge&logo=linux&color=black"/> 
 </div>
 
-<br>
-<br>
+<br> <br>
 
-
-<img style="float: right;" src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/profile_gif.gif" width="320" height="240"/>
-
-
-### About Me 🧙🏻‍♂️ 
-
-  - 🔭 &nbsp; I'm working as a Software Engineer at [Nuclei](https://gonuclei.com/)
-
-  - 🌱 &nbsp; I'm currently learning more about Flutter & Firebase
-
-  - 💻 &nbsp; Visit my porfolio [website](https://www.shauryasrc.com/) for more info
-
-  - 💬 &nbsp; Trying to blog at [Medium](https://shaurya-src.medium.com/)
-
-  - 📫 &nbsp; Best way to reach me is through [e-mail](mailto:shaurya.src@gmail.com)
-
-  - 📝 &nbsp; Checkout my resume from [here](https://github.com/shaurya-src/shaurya-src/blob/main/Assets/ShauryaResume.pdf)
-
-<br>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shaurya-src&style=for-the-badge" alt="Shaurya Choudhary" />
+</p>
 
 #
 
