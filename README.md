@@ -50,8 +50,6 @@
 - 📫 &nbsp; Best way to reach me is through [e-mail](mailto:shaurya.src@gmail.com)
   
 - 📝 &nbsp; Checkout my resume from [here](https://github.com/shaurya-src/shaurya-src/blob/main/Assets/ShauryaResume.pdf)
-
-<br> <br>
   
 <p align="right">
   <a href="mailto:shaurya.src@gmail.com" target="_blank">
