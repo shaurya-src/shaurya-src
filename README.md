@@ -45,6 +45,8 @@
 - 💬 &nbsp; Trying to blog at [Medium](https://shaurya-src.medium.com/)
 - 📫 &nbsp; Best way to reach me is through [e-mail](mailto:shaurya.src@gmail.com)
 - 📝 &nbsp; Checkout my resume from [here](https://github.com/shaurya-src/shaurya-src/blob/main/Assets/ShauryaResume.pdf)
+
+<br>
   
 <p align="right">
   <a href="mailto:shaurya.src@gmail.com" target="_blank">
