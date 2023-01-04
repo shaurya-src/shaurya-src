@@ -40,10 +40,15 @@
 <br>
 
 - 🔭 &nbsp; I'm working as a Software Engineer at [Nuclei](https://gonuclei.com/)
+  
 - 🌱 &nbsp; I'm currently learning more about Flutter & Firebase
+  
 - 💻 &nbsp; Visit my porfolio [website](https://www.shauryasrc.com/) for more info
+  
 - 💬 &nbsp; Trying to blog at [Medium](https://shaurya-src.medium.com/)
+  
 - 📫 &nbsp; Best way to reach me is through [e-mail](mailto:shaurya.src@gmail.com)
+  
 - 📝 &nbsp; Checkout my resume from [here](https://github.com/shaurya-src/shaurya-src/blob/main/Assets/ShauryaResume.pdf)
 
 <br> <br>
