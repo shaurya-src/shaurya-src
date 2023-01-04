@@ -37,8 +37,6 @@
   
 ### About Me 🧙🏻‍♂️ 
 
-<br>
-
 - 🔭 &nbsp; I'm working as a Software Engineer at [Nuclei](https://gonuclei.com/)
   
 - 🌱 &nbsp; I'm currently learning more about Flutter & Firebase
@@ -64,6 +62,8 @@
 </p>
   
 </div>
+
+<br>
 
 ### Languages and Tools 🛠️
 
