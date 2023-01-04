@@ -1,4 +1,4 @@
-<h1 align="center">Hola, Shaurya here! 👋</h1>
+# Hola, Shaurya here! 👋
 
 <!-- <p align="center">
   <a href="https://github.com/shaurya-src" target="_blank">
@@ -35,16 +35,28 @@
   
 <img align="right" src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/profile_gif.gif" width="320" height="240"/>
   
-  ### About Me 🧙🏻‍♂️ 
+### About Me 🧙🏻‍♂️ 
 
-  <br>
+<br>
+
+- 🔭 &nbsp; I'm working as a Software Engineer at [Nuclei](https://gonuclei.com/)
+- 🌱 &nbsp; I'm currently learning more about Flutter & Firebase
+- 💻 &nbsp; Visit my porfolio [website](https://www.shauryasrc.com/) for more info
+- 💬 &nbsp; Trying to blog at [Medium](https://shaurya-src.medium.com/)
+- 📫 &nbsp; Best way to reach me is through [e-mail](mailto:shaurya.src@gmail.com)
+- 📝 &nbsp; Checkout my resume from [here](https://github.com/shaurya-src/shaurya-src/blob/main/Assets/ShauryaResume.pdf)
   
-  - 🔭 &nbsp; I'm working as a Software Engineer at [Nuclei](https://gonuclei.com/)
-  - 🌱 &nbsp; I'm currently learning more about Flutter & Firebase
-  - 💻 &nbsp; Visit my porfolio [website](https://www.shauryasrc.com/) for more info
-  - 💬 &nbsp; Trying to blog at [Medium](https://shaurya-src.medium.com/)
-  - 📫 &nbsp; Best way to reach me is through [e-mail](mailto:shaurya.src@gmail.com)
-  - 📝 &nbsp; Checkout my resume from [here](https://github.com/shaurya-src/shaurya-src/blob/main/Assets/ShauryaResume.pdf)
+<p align="right">
+  <a href="mailto:shaurya.src@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-mail-292e33?style=for-the-badge&logo=gmail"/> 
+  </a>
+  <a href="https://www.linkedin.com/in/shaurya-src/" target="_blank">
+    <img src="https://img.shields.io/badge/-Linkedin-292e33?style=for-the-badge&logo=linkedin"/> 
+  </a>
+  <a href="https://www.instagram.com/shaurya_src/" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-292e33?style=for-the-badge&logo=instagram"/>
+  </a>
+</p>
   
 </div>
 
@@ -83,7 +95,7 @@
 ### Now Playing 🎧 
 <br>
 
-<a href="https://spotify-github-profile.vercel.app/api/view?uid=214zuzj6g7ndx46cmed74tymq&redirect=true" > 
+<a href="https://open.spotify.com/" target="_blank"> 
   <img src="https://spotify-github-profile.vercel.app/api/view?uid=214zuzj6g7ndx46cmed74tymq&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&bar_color_cover=true&bar_color=53b14f"/> 
 </a>
 
@@ -108,20 +120,4 @@
 <details>
   <summary><b>🚀 Github Awards</b></summary>
   <img src = "https://github-profile-trophy.vercel.app/?username=shaurya-src">
-</details> <br>
-
-#
-
-<div align="center">
-
-  <a>
-    <img src="https://img.shields.io/badge/-Email-292e33?style=for-the-badge&logo=gmail"/> 
-  </a> &nbsp;
-  <a>
-    <img src="https://img.shields.io/badge/-Linkedin-292e33?style=for-the-badge&logo=linkedin"/> 
-  </a> &nbsp;
-  <a>
-    <img src="https://img.shields.io/badge/-Instagram-292e33?style=for-the-badge&logo=instagram"/>
-  </a>
-
-</div>
+</details>
