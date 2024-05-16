@@ -39,9 +39,9 @@
 
 - 🔭 &nbsp; I'm working as a Software Engineer at [Nuclei](https://gonuclei.com/)
   
-- 🌱 &nbsp; I'm currently learning more about Golang
+- 🌱 &nbsp; I'm currently learning more about Svelte
   
-- 💻 &nbsp; Visit my porfolio [website](https://www.shauryasrc.com/) for more info
+- 💻 &nbsp; Visit my portfolio [website](https://www.shauryasrc.com/) for more info
   
 - 💬 &nbsp; Trying to blog at [Medium](https://shaurya-src.medium.com/)
   
