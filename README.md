@@ -39,7 +39,7 @@
 
 - 🔭 &nbsp; I'm working as a Software Engineer at [Nuclei](https://gonuclei.com/)
   
-- 🌱 &nbsp; I'm currently learning more about Svelte
+- 🌱 &nbsp; I'm currently learning more about Golang
   
 - 💻 &nbsp; Visit my portfolio [website](https://www.shauryasrc.com/) for more info
   
