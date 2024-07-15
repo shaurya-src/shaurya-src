@@ -99,7 +99,7 @@
 <br>
 
 <a href="https://open.spotify.com/" target="_blank"> 
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=214zuzj6g7ndx46cmed74tymq&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&bar_color_cover=true&bar_color=53b14f"/> 
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=214zuzj6g7ndx46cmed74tymq&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&bar_color_cover=true&bar_color=53b14f"/> 
 </a>
 
 #
