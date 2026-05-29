@@ -110,8 +110,10 @@
  <summary> ✇ <b>My Github Stats</b> </summary>
 <br>
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=shaurya-src&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=shaurya-src&hide=TeX,HTML,Makefile,C,CSS&theme=tokyonight&langs_count=3">
+  <img src = "https://github-stats-extended.vercel.app/api?username=shaurya-src&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&line_height=27">
+  <img src = "https://github-stats-extended.vercel.app/api/top-langs/?username=shaurya-src&hide=TeX,HTML,Makefile,C,CSS&theme=tokyonight&langs_count=3">
+  <!-- <img src = "https://github-readme-stats.vercel.app/api?username=shaurya-src&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&line_height=27"> -->
+  <!-- <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=shaurya-src&hide=TeX,HTML,Makefile,C,CSS&theme=tokyonight&langs_count=3"> -->
 </p>
 </details> <br>
 
@@ -122,5 +124,6 @@
 
 <details>
   <summary><b>🚀 Github Awards</b></summary>
-  <img src = "https://github-profile-trophy.vercel.app/?username=shaurya-src">
+  <img src = "https://gh-trophy.cdnsoft.net/?username=shaurya-src">
+  <!-- <img src = "https://github-profile-trophy.vercel.app/?username=shaurya-src"> -->
 </details>
